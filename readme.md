@@ -1,3 +1,3 @@
-# Example folder dor testing git command
+# Example folder for testing git command
 
-created by Aditya gupta
+created by Aditya gupta  at 28/11/2022
