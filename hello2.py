@@ -1,3 +1,11 @@
+"""
+
+hello.py
+
+Prints a hello msg .Just a pythi=on program for very begginer.
+"""
+
+
 def main():
     print("Hello world  Hello world " )
 
